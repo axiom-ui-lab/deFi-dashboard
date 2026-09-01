@@ -1,5 +1,11 @@
 'use strict';
 
+const CHART_CONFIG = 
+{
+    POINTS:20,
+    VOLATILITY:{1:1, 7:2, 30:3}
+};
+
 // Data Management
 const portfolioData =
 {
@@ -25,10 +31,10 @@ function getChartData(range = 1)
             return chartDataCache[normalizedRange];
         }
 
-    const points = 20;
+    const points = CHART_CONFIG.POINTS;
     const data = [];
     let value = 10000;
-    const volatility = normalizedRange === 1 ? 1 :normalizedRange === 7 ? 2 :3;
+    const volatility = CHART_CONFIG.VOLATILITY[normalizedRange] || 1;
 
     for(let i = 0; i < points; i++)
         {

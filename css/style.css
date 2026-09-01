@@ -218,6 +218,7 @@ body
     border-radius:16px;
     padding:1.5rem;
     overflow:hidden;
+    aspect-ratio:16 / 9; 
 }
 
 .chart-header

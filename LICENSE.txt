@@ -1,0 +1,29 @@
+DEFI DASHBOARD SOURCE CODE LICENSE
+Copyright © 2026 AXIOM VISUAL. All rights reserved.
+
+This source code is made publicly available on GitHub strictly for:
+- Educational purposes
+- Portfolio demonstration
+- Personal learning and non-commercial experimentation
+
+IMPORTANT NOTICE:
+This project is a frontend demonstration only. It does not connect to a 
+blockchain, execute real transactions, or connect to a production wallet.
+
+COMMERCIAL USE RESTRICTIONS:
+The following uses are STRICTLY PROHIBITED without a separate, explicit 
+commercial license from AXIOM VISUAL:
+1. Use in any client project (paid or unpaid).
+2. Deployment to any production or commercial environment.
+3. Modification, redistribution, or sublicensing of the source code.
+4. Use as a foundation for financial, crypto, or Web3 applications.
+5. Removal or alteration of AXIOM VISUAL attribution.
+
+To inquire about a commercial license for this project, please contact:
+axiomvisual.director@gmail.com
+
+DISCLAIMER:
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED. THE AUTHORS SHALL NOT BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER
+LIABILITY ARISING FROM THE USE OF THIS SOFTWARE, ESPECIALLY IN ANY FINANCIAL 
+OR PRODUCTION CONTEXT.
